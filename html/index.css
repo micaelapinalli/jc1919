@@ -1,0 +1,23 @@
+h1 {
+    background-color:white;
+    
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.title  {
+    align-self: flex-start;
+    color: teal;
+
+}
+
+.photo img {
+    width: 100vh;
+}
